@@ -2627,7 +2627,6 @@ Subtotal,Subtotal,module,Magento_Checkout
 "Edit item parameters","Editar parámetros del artículo",module,Magento_Checkout
 Edit,Editar,module,Magento_Checkout
 "Remove item","Eliminar artículo",module,Magento_Checkout
-"You have no items in your shopping cart.","Todavía no agregaste ningún artículo en tu carrito :(",module,Magento_Checkout
 "You have no items in your shopping cart.","Todavía no agregaste ningún artículo en tu carrito :("
 "Click <a href=""%1"">here</a> to continue shopping.","Haga clic <a href=""%1"">aquí</a> para continuar haciendo compras.",module,Magento_Checkout
 "Estimate Tax","Calcular impuestos",module,Magento_Checkout
